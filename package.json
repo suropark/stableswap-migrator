@@ -1,0 +1,26 @@
+{
+  "name": "stablezap",
+  "version": "1.0.0",
+  "description": "1. sudo npm install -g truffle 명령어로 truffle을 설치합니다.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suropark/stableZap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suropark/stableZap/issues"
+  },
+  "homepage": "https://github.com/suropark/stableZap#readme",
+  "dependencies": {
+    "caver-js": "^1.6.8"
+  }
+}
